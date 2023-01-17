@@ -1,0 +1,15 @@
+C:\Users\askia\VSC\bin\Debug\net7.0\VSC.exe
+C:\Users\askia\VSC\bin\Debug\net7.0\VSC.deps.json
+C:\Users\askia\VSC\bin\Debug\net7.0\VSC.runtimeconfig.json
+C:\Users\askia\VSC\bin\Debug\net7.0\VSC.dll
+C:\Users\askia\VSC\bin\Debug\net7.0\VSC.pdb
+C:\Users\askia\VSC\obj\Debug\net7.0\VSC.csproj.AssemblyReference.cache
+C:\Users\askia\VSC\obj\Debug\net7.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askia\VSC\obj\Debug\net7.0\VSC.AssemblyInfoInputs.cache
+C:\Users\askia\VSC\obj\Debug\net7.0\VSC.AssemblyInfo.cs
+C:\Users\askia\VSC\obj\Debug\net7.0\VSC.csproj.CoreCompileInputs.cache
+C:\Users\askia\VSC\obj\Debug\net7.0\VSC.dll
+C:\Users\askia\VSC\obj\Debug\net7.0\refint\VSC.dll
+C:\Users\askia\VSC\obj\Debug\net7.0\VSC.pdb
+C:\Users\askia\VSC\obj\Debug\net7.0\VSC.genruntimeconfig.cache
+C:\Users\askia\VSC\obj\Debug\net7.0\ref\VSC.dll
